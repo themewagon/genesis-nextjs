@@ -30,12 +30,12 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by codescandy and development team. 
+Design and code is completely written by PrebuiltUI and development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+ - Design and Code is Copyright &copy; <a href="https://prebuiltui.com/?utm_source=genesis" target="_blank">PrebuiltUI</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
 
